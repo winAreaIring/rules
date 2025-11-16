@@ -1,0 +1,14 @@
+host-suffix, 123av.com, colorseesee
+host-suffix, feedburner.com, colorseesee
+host-suffix, dmm.co.jp, colorseesee
+host-suffix, avwikich.com, colorseesee
+host-keyword, njav, colorseesee
+host-suffix, jable.tv, colorseesee
+host-suffix, avgle.com, colorseesee
+host-suffix, javbuss.com, colorseesee
+host, onlyfans.com, colorseesee
+host, cn.pornhub.*, colorseesee
+host-suffix, scanlover.com, colorseesee
+host-suffix, playno1.com, colorseesee
+host-suffix, missav.com, colorseesee
+host-suffix, mman.kr, colorseesee
