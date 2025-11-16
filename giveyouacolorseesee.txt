@@ -12,3 +12,7 @@ host-suffix, scanlover.com, colorseesee
 host-suffix, playno1.com, colorseesee
 host-suffix, missav.com, colorseesee
 host-suffix, mman.kr, colorseesee
+host, avfan.mixh.jp, colorseesee
+host-suffix, s1s1s1.com, colorseesee
+host-suffix, dmm.co, colorseesee
+host-suffix, eropuru.com, colorseesee
