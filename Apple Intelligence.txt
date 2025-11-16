@@ -1,10 +1,10 @@
 ##Apple Intelligence
-#host, apple-relay.mask.apple-dns.net, AI
-#host, apple-relay.apple.com, AI
-#host, apple-relay.cloudflare.com, AI
-#host, apple-relay.fastly-edge.com, AI
-#host, cp4.cloudflare.com, AI
-#host, guzzoni.apple.com, AI
-#host, gspe1-ssl.ls.apple.com, AI
-#host-suffix, smoot.apple.com, AI
-#host-suffix, apps.mzstatic.com, AI
+host, apple-relay.mask.apple-dns.net, AI
+host, apple-relay.apple.com, AI
+host, apple-relay.cloudflare.com, AI
+host, apple-relay.fastly-edge.com, AI
+host, cp4.cloudflare.com, AI
+host, guzzoni.apple.com, AI
+host, gspe1-ssl.ls.apple.com, AI
+host-suffix, smoot.apple.com, AI
+host-suffix, apps.mzstatic.com, AI
